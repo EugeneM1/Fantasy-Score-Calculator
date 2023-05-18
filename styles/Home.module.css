@@ -1,0 +1,30 @@
+.container {
+  min-height: 100vh;
+  padding: 1rem 0.5rem 0;
+}
+
+.playerCard {
+  height: 30vh;   /* 30% of the height of the screen */
+  width: 60vh;
+  border: 1px black solid;
+  border-radius: 5px;
+  margin-bottom: 10px;
+  padding: 10px;
+  text-align: center;
+  background-color: orange;
+  box-shadow: 2px 2px grey;
+}
+
+.boldedName {
+  font-weight: bold;
+}
+
+.input {
+  padding: 0.5rem;
+  width: 300px;
+  margin-bottom: 1rem;
+}
+
+.tableCell {
+  border: 1px black solid;
+}
